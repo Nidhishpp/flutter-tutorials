@@ -7,7 +7,17 @@ All Tutorials plus additional snippets and shorter posts can be found on the [Of
 
 Please clone and star this repo to stay up to date on changes.
 
-## Turorials
+## Tutorials
+
+**025 - Flutter navigation without BuildContext | Navigation Service** \[ [Video](https://youtu.be/kopdISefbJc) \] \[ [Written](http://filledstacks.com/post/navigate-without-build-context-in-flutter-using-a-navigation-service) \] - This tutorial covers the creation of a Navigation Service to move your navigation logic out of your UI files into the business logic files.
+
+**024 - Abstraction in Flutter Pt2 | Better unit tests using Abstraction** \[ [Video](https://youtu.be/oZW3Eb3J9s0) \] \[ [Written](https://www.filledstacks.com/post/better-unit-tests-in-flutter-using-abstraction) \] - In this tutorial we go over how using Abstraction can make your unit tests better.
+
+**023 - Abstraction In Flutter Pt1 | How it can save hours of development time** \[ [Video](https://youtu.be/n2yGl7vJJGM) \] \[ [Written](https://www.filledstacks.com/post/develop-faster-in-flutter-using-abstraction) \] - This tutorial is part one of the abstraction series that will cover the benefits of abstraction in practical use cases. In this one we look at how using a second implementation of an interface that returns fake data can speed up your application development.
+
+**022 - Build a Lifecycle manager for Background behaviour in Flutter** \[ [Video](https://youtu.be/NfvA-7-HzYk) \] \[ [Written](https://www.filledstacks.com/post/flutter-application-life-cycle-management) \] - In this tutorial I go over how to build and hook up a LifeCycle manager to the Flutter AppLifeCycle. We use that to start and stop services within our architecture when the app enters a background state or come back to the foreground.
+
+**021 - Build an architecture for your dialog management in Flutter** \[ [Video](https://youtu.be/IrFU_BrCWnE) \] \[ [Written](https://www.filledstacks.com/post/manager-your-flutter-dialogs-with-a-dialog-manager) \] - This tutorial guides you on how to create a dialog manager in Flutter that allows you to show and access information from dialogs from your business logic.
 
 **020 - A Guide to using Futures** \[ [Video](https://youtu.be/DAS0EQuM-oU) \] \[ [Written](https://www.filledstacks.com/post/complete-beginners-guide-to-futures) \] - This tutorial goes over the functionality provided by Futures and how to use it.
 
@@ -51,7 +61,5 @@ Please clone and star this repo to stay up to date on changes.
 
 
 ## Tools by FilledStacks
-
-[AppSkeletons](https://www.appskeletons.com/): Create your own custom template, perfectly architected and catered to your scenario. Add predefined view types and skip 2-3 days of code setup and just start developing
 
 [SmartFlare](https://pub.dartlang.org/packages/smart_flare): An extension of the already awesome Flare packages that adds interactive to FlareActors with some more functionality.
